@@ -1,2 +1,2 @@
 <?php
-print_r('Hello, world1');
+print_r('Hello, world');
