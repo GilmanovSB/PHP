@@ -9,3 +9,5 @@ $query = $connect->query('SELECT * FROM user');
 $result = $query->fetchAll();
 
 var_dump($result);
+
+print_r('test SSH connect with github');
