@@ -13,7 +13,6 @@ trait Singletone{
         }
     }
 }
-
 class ConnectDB{
 
     use Singletone;
